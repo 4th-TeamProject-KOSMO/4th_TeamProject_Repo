@@ -274,9 +274,7 @@
 						<input type="text" name="humidity" placeholder="재배 습도 (예: 50~60%)">
 						<input type="text" name="water" placeholder="물 주기 (예: 주 1회)">
 						<textarea name="disease" placeholder="병충해"></textarea>
-						<textarea name="summary" placeholder="개요"></textarea>
 						<textarea name="note" placeholder="기타 정보"></textarea>
-
 						<input type="file" name="image" accept="image/*" required>
 						<input type="submit" value="등록" class="admin-btn">
 					</form>
