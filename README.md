@@ -23,15 +23,14 @@
 - Oracle DB
 
 ### Others
-GitHub & Notion 협업
+- GitHub & Notion 협업
+- Ajax 비동기 통신
+- WebSocket (실시간 기능 일부)
+- Figma (와이어프레임 설계)
 
-Ajax 비동기 통신
+---
 
-WebSocket (실시간 기능 일부)
-
-Figma (와이어프레임 설계)
-
-🚀 주요 기능
+## 🚀 주요 기능
 
 회원 시스템
 
