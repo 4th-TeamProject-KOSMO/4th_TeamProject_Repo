@@ -68,7 +68,7 @@
 
 ### 관리자 페이지
 
-⚙️ 실행 방법
+## ⚙️ 실행 방법
 Backend (Spring Boot)
 git clone https://github.com/your-repo/sikku.git
 cd sikku
@@ -85,7 +85,7 @@ cd sikku_flutter
 flutter pub get
 flutter run
 
-👥 팀 구성 & 역할
+## 👥 팀 구성 & 역할
 
 본인(김OO) : 백엔드/풀스택
 
@@ -97,7 +97,7 @@ flutter run
 
 팀원 C : DB 설계 & 서버 배포
 
-📈 트러블슈팅 & 배운 점
+## 📈 트러블슈팅 & 배운 점
 
 GitHub 브랜치 전략을 통한 협업 및 충돌 해결 경험
 
@@ -107,7 +107,7 @@ Controller → Service 계층 리팩토링으로 MVC 구조 이해 심화
 
 Naver API (검색·Datalab) 사용 시 키워드 제한 문제를 Python 코드로 보완
 
-🔮 향후 개선 계획
+## 🔮 향후 개선 계획
 
 AI 챗봇을 사용자 DB와 연계하여 맞춤형 상담 기능 강화
 
