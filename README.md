@@ -1,33 +1,25 @@
-🌱 식꾸 (Plant Growth Diary)
-📌 프로젝트 개요
+# 🌱 식꾸 (Plant Growth Diary)
+## 📌 프로젝트 개요
+---
 
-**식꾸(식물 생육 다이어리)**는 식물 키우는 사람들을 위한 맞춤형 다이어리 & 커뮤니티 플랫폼입니다.
+식꾸(식물 생육 다이어리)는 식물 키우는 사람들을 위한 맞춤형 다이어리 & 커뮤니티 웹, 앱 플랫폼입니다.
 사용자는 자신의 식물 성장 과정을 기록하고, 캘린더로 관리하며, 다른 사용자들과 Q&A 및 리뷰를 공유할 수 있습니다.
 또한 MBTI 기반 식물 추천, 구독 결제, 관리자 페이지 등을 제공하여 식물과 함께하는 생활을 더 즐겁고 체계적으로 돕습니다.
 
 🛠 기술 스택
 
-Backend
+<Backend>
+- Java 21, Spring Boot 4.31
+- JPA & MyBatis 혼용
+- REST API 설계
+- JWT 기반 인증/인가
 
-Java 17, Spring Boot 3.x
-
-JPA & MyBatis 혼용
-
-REST API 설계
-
-JWT 기반 인증/인가
-
-Frontend
-
-JSP (Spring Boot 내장 톰캣 기반)
-
-Flutter (모바일 앱 버전)
-
-Database
-
-Oracle DB
-
-MariaDB (테스트 환경)
+<Frontend>
+- JSP (Spring Boot 내장 톰캣 기반)
+- Flutter (모바일 앱 버전)
+  
+<Database>
+- Oracle DB
 
 Others
 
